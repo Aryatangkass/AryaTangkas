@@ -1,2 +1,2 @@
-# AryaTangkas
-tugas evaluasi
+# nim_nama
+evaluasi
